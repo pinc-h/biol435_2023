@@ -1,2 +1,2 @@
-# biol435_spring_2023
-Scripts from BIOL435 Molecular Evolution, Spring 2023
+# BIOL435 Scripts
+Scripts that automate example problems in BIOL435, Molecular Evolution. Most problems taken from G. Coop (2022)
